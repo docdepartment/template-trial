@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  Comment="Template for an A3 quick start guide. Refer to the A3 Template Description Guide (IU-MGT-MAN002).">
+  <TocEntry
+    Title="Placeholder book"
+    StartSection="false">
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/Common/Front and Back matter/Copyright.htm">
+      <TocEntry
+        Title="Contact address"
+        Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Package contents"
+      Link="/Content/Common/PackageContents.htm">
+      <TocEntry
+        Title="PackageContents-Image"
+        Link="/Content/TemplateDescription/QSG/PackageContents-Image.htm" />
+      <TocEntry
+        Title="Spacer"
+        Link="/Content/Common/Spacer.htm" />
+      <TocEntry
+        Title="[%=Variables.ProductName%]"
+        Link="/Content/TemplateDescription/QSG/PackageContents-List.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Safety notices"
+      Link="/Content/Common/Front and Back matter/SafetyNotices.htm"></TocEntry>
+    <TocEntry
+      Title="Specifications"
+      Link="/Content/Common/Specifications.htm">
+      <TocEntry
+        Title="Quick Start Guide Overview"
+        Link="/Content/TemplateDescription/QSG/QSG-Overview.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Regulatory"
+      Link="/Content/Common/Regulatory.htm">
+      <TocEntry
+        Title="Spacer"
+        Link="/Content/Common/Spacer.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=Variables.ProductName%] Installation"
+      Link="/Content/TemplateDescription/QSG/Installation.htm" />
+  </TocEntry>
+</CatapultToc>

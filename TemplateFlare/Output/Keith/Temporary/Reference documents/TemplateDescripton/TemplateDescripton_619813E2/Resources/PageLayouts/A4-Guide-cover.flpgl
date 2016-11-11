@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Cover" Width="800" Height="800" Padding="20px" PageSize="A4" PageType="normal" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="50.27083mm" Y="168px" Width="89.69375mm" Height="51px" Flow="body" Right="265px" Bottom="904px" Anchors="" />
+        <Frame X="22.75417mm" Y="103.9812mm" Width="135.2021mm" Height="54.23958mm" Flow="footer" Anchors="" Right="197px" Bottom="525px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="booktitle"><MadCap:variable xhtml:name="Variables.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="booksubtitle"><MadCap:variable xhtml:name="Variables.BookType" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="22.48958mm" Y="177px" Width="517px" Height="73px" Flow="header" Right="192px" Bottom="873px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="headerleft">
+                            <xhtml:img xhtml:src="../../../../../../../../Content/gfx/commongfx/doc-deprt-logo-1-9x1-45.png" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

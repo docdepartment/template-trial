@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="A"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Style Guide/WritingStyleLanguage.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/C.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/D.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/BannedWords.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/Style Guide/WritingStyleLanguage.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/C.htm#canmay" />
+    <Link
+      Url="Content/Style Guide/Common words/D.htm#dialog" />
+    <Link
+      Url="Content/Style Guide/Common words/BannedWords.htm" />
+  </LongLinks>
+  <Anchors>
+    <Anchor
+      Name="above" />
+    <Anchor
+      Name="active" />
+    <Anchor
+      Name="as" />
+  </Anchors>
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

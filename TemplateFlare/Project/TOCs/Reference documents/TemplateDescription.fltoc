@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Online Help"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-cover.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    PageType="first"
+    conditions="TargetType.ScreenOnly">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm" />
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/Common/Front and Back matter/Copyright.htm"></TocEntry>
+    <TocEntry
+      Title="Intended Purpose"
+      Link="/Content/Common/Front and Back matter/Intended Purpose.htm" />
+    <TocEntry
+      Title="Conventions"
+      Link="/Content/Common/Front and Back matter/Conventions.htm"
+      BreakType="none"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Safety notices"
+        Link="/Content/Common/Front and Back matter/SafetyNotices.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Contact address"
+      Link="/Content/Common/Front and Back matter/Contact address.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="User Guide"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-cover.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    PageType="normal"
+    conditions="TargetType.PrintOnly"
+    Link="/Content/Common/Spacer.htm">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl">
+      <TocEntry
+        Title="Copyright"
+        Link="/Content/Common/Front and Back matter/Copyright.htm"
+        BreakType="none"
+        PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        PageType="normal"
+        ComputeToc="false"
+        ReplaceMergeNode="false"></TocEntry>
+      <TocEntry
+        Title="Intended purpose"
+        Link="/Content/Common/Front and Back matter/Intended Purpose.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Conventions"
+        Link="/Content/Common/Front and Back matter/Conventions.htm"
+        BreakType="none"
+        StartSection="false"
+        PageNumberReset="continue">
+        <TocEntry
+          Title="Safety notices"
+          Link="/Content/Common/Front and Back matter/SafetyNotices.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Contact address"
+        Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="TOC"
+    Link="/Content/Common/Front and Back matter/TOC.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="normal"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl"
+    conditions="TargetType.PrintOnly" />
+  <TocEntry
+    Title="Creating a document"
+    Link="/Content/TemplateDescription/CreatingADocument.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    ChapterNumberFormat="decimal"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageType="first"
+    AutoEndOnLeftPage="disabled">
+    <TocEntry
+      Title="Setting up a document"
+      Link="/Content/TemplateDescription/SettingUp.htm">
+      <TocEntry
+        Title="Define the location of the template"
+        Link="/Content/TemplateDescription/SetupDefineTemplateLocation.htm" />
+      <TocEntry
+        Title="Create a TOC"
+        Link="/Content/TemplateDescription/CreateTOC.htm">
+        <TocEntry
+          Title="Available TOC templates"
+          Link="/Content/TemplateDescription/AvailableTOCTemplates.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Create a Target"
+        Link="/Content/TemplateDescription/CreateTarget.htm">
+        <TocEntry
+          Title="Available Target templates"
+          Link="/Content/TemplateDescription/Output types.htm"></TocEntry>
+      </TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Master Template Structure"
+    Link="/Content/TemplateDescription/Template Structure.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Placeholder book"
+      Link="/Content/TemplateDescription/PlaceholderBook.htm">
+      <TocEntry
+        Title="Preface section"
+        Link="/Content/TemplateDescription/Preface.htm">
+        <TocEntry
+          Title="Document information"
+          Link="/Content/TemplateDescription/DocumentInformation.htm"></TocEntry>
+        <TocEntry
+          Title="Copyright"
+          Link="/Content/TemplateDescription/Copyright.htm" />
+        <TocEntry
+          Title="Intended purpose"
+          Link="/Content/TemplateDescription/About.htm" />
+        <TocEntry
+          Title="Conventions and safety notices"
+          Link="/Content/TemplateDescription/Conventions.htm" />
+        <TocEntry
+          Title="Contact address"
+          Link="/Content/TemplateDescription/Contact address.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="TOC Proxy"
+      Link="/Content/TemplateDescription/TOCPlaceholder.htm"
+      conditions="TargetType.PrintOnly"
+      StartSection="false" />
+    <TocEntry
+      Title="Chapter 1"
+      Link="/Content/TemplateDescription/Chapter 1.htm">
+      <TocEntry
+        Title="Sub-topics"
+        Link="/Content/TemplateDescription/Subtopic.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Other chapters"
+      Link="/Content/TemplateDescription/Chapter 2.htm" />
+    <TocEntry
+      Title="Appendix A"
+      Link="/Content/TemplateDescription/Appendix 1.htm" />
+    <TocEntry
+      Title="Appendices"
+      Link="/Content/TemplateDescription/Appendices.htm" />
+    <TocEntry
+      Title="Index"
+      Link="/Content/TemplateDescription/Indexes.htm" />
+    <TocEntry
+      Title="TOC requirements"
+      Link="/Content/TemplateDescription/OutputRequirements.htm">
+      <TocEntry
+        Title="Responsive help"
+        Link="/Content/TemplateDescription/OutputRequirementsResponsiveHelp.htm" />
+      <TocEntry
+        Title="A3 Quick Start Guide"
+        Link="/Content/TemplateDescription/QSG/QSG-Overview.htm" />
+      <TocEntry
+        Title="A5 Quick Start Card"
+        Link="/Content/TemplateDescription/A5 folding PDF.htm" />
+      <TocEntry
+        Title="A5 PDF Guide"
+        Link="/Content/TemplateDescription/A5 PDF Guide.htm" />
+      <TocEntry
+        Title="Multiple output types"
+        Link="/Content/TemplateDescription/OutputRequirementsMultiOutput.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Template Elements"
+    Link="/Content/TemplateDescription/Elements.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageType="first">
+    <TocEntry
+      Title="TOCs"
+      Link="/Content/TemplateDescription/TOCs.htm"
+      StartSection="false"></TocEntry>
+    <TocEntry
+      Title="Page Layouts"
+      Link="/Content/TemplateDescription/PageLayouts.htm" />
+    <TocEntry
+      Title="Master Pages"
+      Link="/Content/TemplateDescription/MasterPages.htm" />
+    <TocEntry
+      Title="Skins"
+      Link="/Content/TemplateDescription/Skins.htm" />
+    <TocEntry
+      Title="Proxies"
+      Link="/Content/TemplateDescription/Proxies.htm" />
+    <TocEntry
+      Title="Variables"
+      Link="/Content/TemplateDescription/Variables.htm" />
+    <TocEntry
+      Title="Snippets"
+      Link="/Content/TemplateDescription/Snippets.htm" />
+    <TocEntry
+      Title="Conditions"
+      Link="/Content/TemplateDescription/Conditions.htm" />
+    <TocEntry
+      Title="Targets"
+      Link="/Content/TemplateDescription/Targets.htm">
+      <TocEntry
+        Title="General tab"
+        Link="/Content/TemplateDescription/TargetsGeneral.htm" />
+      <TocEntry
+        Title="Skins tab"
+        Link="/Content/TemplateDescription/TargetsSkins.htm" />
+      <TocEntry
+        Title="Conditional Text tab"
+        Link="/Content/TemplateDescription/TargetsCondText.htm" />
+      <TocEntry
+        Title="Variables tab"
+        Link="/Content/TemplateDescription/TargetsVariables.htm" />
+      <TocEntry
+        Title="PDF Options tab"
+        Link="/Content/TemplateDescription/TargetsPDFOtions.htm" />
+      <TocEntry
+        Title="Advanced tab"
+        Link="/Content/TemplateDescription/TargetsAdvanced.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Topics"
+    Link="/Content/TemplateDescription/Topics.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageType="first">
+    <TocEntry
+      Title="Styles"
+      Link="/Content/TemplateDescription/Styles.htm">
+      <TocEntry
+        Title="A4-Styles.css"
+        Link="/Content/TemplateDescription/Stylesheets-A4-StylesCSS.htm" />
+      <TocEntry
+        Title="ResponsiveHelp.css"
+        Link="/Content/TemplateDescription/Stylesheets-ResponsiveHelpCSS.htm" />
+      <TocEntry
+        Title="StyleForHomePage.css"
+        Link="/Content/TemplateDescription/Stylesheets-StylesForHomePageCSS.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Tables"
+      Link="/Content/TemplateDescription/Tables.htm">
+      <TocEntry
+        Title="Table captions"
+        Link="/Content/TemplateDescription/TableCaptions.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Figures"
+      Link="/Content/TemplateDescription/Figures.htm" />
+    <TocEntry
+      Title="Cross-references"
+      Link="/Content/TemplateDescription/Cross-references.htm" />
+    <TocEntry
+      Title="Responsive Help topics"
+      Link="/Content/TemplateDescription/ResponsiveHelpTopics.htm">
+      <TocEntry
+        Title="Hero image"
+        Link="/Content/TemplateDescription/HeroImage.htm" />
+      <TocEntry
+        Title="Slideshow application"
+        Link="/Content/TemplateDescription/SlideShowApp.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Safety information"
+    Link="/Content/TemplateDescription/Safety notices.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Using safety notices"
+      Link="/Content/TemplateDescription/Using safety notices.htm" />
+    <TocEntry
+      Title="Content of safety notices"
+      Link="/Content/TemplateDescription/Content of safety notices.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="File structure"
+    Link="/Content/TemplateDescription/FileStructure.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageType="first"></TocEntry>
+</CatapultToc>

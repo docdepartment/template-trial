@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="61" MadCap:lastWidth="940">
+    <head>
+    </head>
+    <body>
+        <p MadCap:conditions="TargetType.PrintOnly">Ensure that the following settings are configured in the TOC for print output documents:</p>
+        <p class="ul" MadCap:conditions="TargetType.PrintOnly" MadCap:autonum="• ">Break type: None</p>
+    </body>
+</html>

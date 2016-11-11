@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="1054.333" MadCap:lastWidth="984">
+    <head>
+    </head>
+    <body>
+        <h1>Using safety notices</h1>
+        <p>Safety notices are common throughout documents. They are a series of specially formatted chunks of text that provide information that needs to be highlighted. The safety notices have different levels of importance. </p>
+        <p>Safety notices are stored as snippets in <span class="menucascade">Content &gt; Common &gt; Snippets &gt; Notices</span></p>
+        <p class="xreff" MadCap:autonum="&lt;span style=&quot;font-family: 'Arial';&quot; class=&quot;mcFormatFamily&quot;&gt;&lt;span style=&quot;color: #00245d;&quot; class=&quot;mcFormatColor&quot;&gt;►&lt;/span&gt;&lt;/span&gt;">
+            <MadCap:xref href="Conventions.htm">For more information, see "Conventions and safety notices used" on page 1</MadCap:xref>
+        </p>
+        <p class="xreff" MadCap:autonum="&lt;span style=&quot;font-family: 'Arial';&quot; class=&quot;mcFormatFamily&quot;&gt;&lt;span style=&quot;color: #00245d;&quot; class=&quot;mcFormatColor&quot;&gt;►&lt;/span&gt;&lt;/span&gt;">
+            <MadCap:xref href="Snippets.htm">For more information, see "Snippets" on page 1</MadCap:xref>
+        </p>
+        <p>Drag-and-drop the snippet into the topic and then right-click and select <span class="uicontrol">Convert to Text</span>.</p>
+        <p>The graphic used for each safety notice type is either referenced within the Project Stylesheet CSS file or is linked directly to support Word outputs. Use the condition <span class="menucascade">TargetType &gt; Word</span> to support the icon used. Ensure the Target uses the correct condition settings.</p>
+        <p>Each notice contains a link to the Safety Notices topic for reference purposes. This link is made available through stylesheets for online output only.</p>
+        <p>The topic coding for a safety notice is shown below:</p>
+        <p class="codeblock">&lt;p class="noteTopLine"&gt;&amp;#160;&lt;/p&gt;</p>
+        <p class="codeblock">&lt;p class="noteNotice"&gt;</p>
+        <p class="codeblock">&lt;a class="noticelink" href="../Common/Front and Back matter/SafetyNotices.htm"&gt;</p>
+        <p class="codeblock">&lt;img src="../../../gfx/Noticegfx/notice/EN/NOTICE_Notice_word.png" MadCap:conditions="Guide.Word" /&gt;&amp;#160;&lt;/a&gt;&lt;/p&gt;</p>
+        <p class="codeblock">&lt;p class="noteBody"&gt;This is the next note.&lt;/p&gt;</p>
+        <p class="codeblock">&lt;p class="noteBody"&gt;This is the middle of the notice.&lt;/p&gt;</p>
+        <p class="codeblock">&lt;p class="noteBottomLine"&gt;&amp;#160;&lt;/p&gt;</p>
+        <p class="noteTopLine">&#160;</p>
+        <p class="noteNotice"><a class="noticelink" href="../Common/Front and Back matter/SafetyNotices.htm"><img src="../gfx/Noticegfx/notice/EN/NOTICE_Notice_word.png" MadCap:conditions="Guide.Word" />&#160;</a>
+        </p>
+        <p class="noteBody">This is the next notice.</p>
+        <p class="noteBody">This is the middle of the notice.</p>
+        <p class="noteBottomLine">&#160;</p>
+        <p>Depending on what safety notice type is required, the class of the second line is changed to:</p>
+        <p class="ul" MadCap:autonum="• "><span class="dt">Warning:</span> class definition is "noteWarning"</p>
+        <p class="ul" MadCap:autonum="• "><span class="dt">Caution:</span> class definition is "noteCaution"</p>
+        <p class="ul" MadCap:autonum="• "><span class="dt">Notice:</span> class definition is "noteNotice"</p>
+        <p class="ul" MadCap:autonum="• "><span class="dt">Tip:</span> class definition is "noteTip"</p>
+    </body>
+</html>

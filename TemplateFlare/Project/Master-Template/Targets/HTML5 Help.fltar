@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Target template for HTML5 Help output"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/HTML5-Styles.css"
+  Medium="non-print"
+  MoveOutputContentToRoot="true"
+  InjectDocType="false"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="false"
+  ExcludeUnreferencedContent="true"
+  ConditionTagExpression="include[Guide.HTML5 or Guide.OnlineHelp or Guide.ResponsiveHelp or TargetType.ScreenOnly] exclude[Guide.A3QSG or Guide.A4PDF or Guide.UserGuideandHelp or Guide.Word or TargetType.PrintOnly] "
+  MasterPage="/Content/Resources/MasterPages/OnlineHelp.flmsp"
+  GetLatestBeforeCompile="false"
+  GenerateAllSkins="false"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="jpg"
+  MasterToc="/Project/TOCs/Reference documents/TemplateDescription.fltoc">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/BookType">Online Help</Variable>
+    <Variable
+      Name="Variables/ProductName">Product</Variable>
+    <Variable
+      Name="Variables/Software Version">Version.ver</Variable>
+    <Variable
+      Name="Variables/Draft">DRAFT</Variable>
+  </Variables>
+  <Glossaries />
+</CatapultTarget>

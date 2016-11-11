@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Copy of Front" Width="800" Height="800" Padding="20px" PageSize="A3" PageType="first" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Orientation="landscape">
+        <Frame X="5.291667mm" Y="33.60209mm" Width="95.25mm" Height="41.53959mm" Flow="header" Anchors="" Right="1207px" Bottom="839px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="booktitle"><MadCap:variable xhtml:name="Variables.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="booktitle">&#160;</xhtml:p>
+                        <xhtml:p xhtml:class="booktitle"><MadCap:variable xhtml:name="Variables.BookType" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="18.78542mm" Y="163.5125mm" Width="68.52708mm" Height="124.8833mm" Flow="body" Anchors="" FlowIndex="1" Right="1257px" Bottom="33px" />
+        <Frame X="110.0667mm" Y="3.96875mm" Width="95.25mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="2" Right="811px" Bottom="579px" />
+        <Frame X="215.1062mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="3" Right="415px" Bottom="579px" />
+        <Frame X="319.8813mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="5" Right="19px" Bottom="579px" />
+        <Frame X="110.0667mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="6" Right="812px" Bottom="20px" />
+        <Frame X="215.1062mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Anchors="" FlowIndex="7" Right="415px" Bottom="20px" />
+        <Frame X="35px" Y="524px" Width="335px" Height="20px" Flow="footer" Right="1217px" Bottom="579px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:h2 xhtml:class="preface">Document ID: <MadCap:variable xhtml:name="Variables.DocID" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />- <MadCap:variable xhtml:name="Variables.DocVersion" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:h2>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="319.8813mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Anchors="" FlowIndex="8" Right="19px" Bottom="20px" />
+        <Frame X="0.5291666cm" Y="0.4233333cm" Width="97.89584mm" Height="13.22917mm" Flow="decoration0" BackgroundImage="../../gfx/commongfx/Logo.jpg" Anchors="" BackgroundRepeat="no-repeat" BackgroundPositionX="left" BackgroundPositionY="top" Right="1197px" Bottom="1057px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Back" Width="800" Height="800" Padding="20px" PageSize="A3" PageType="left" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0" Orientation="landscape">
+        <Frame X="5.027083mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" Right="1209px" Bottom="579px" />
+        <Frame X="5.291667mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="1" Right="1208px" Bottom="20px" />
+        <Frame X="110.0667mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="2" Right="812px" Bottom="579px" />
+        <Frame X="110.0667mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="3" Right="812px" Bottom="20px" />
+        <Frame X="215.1062mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="4" Right="415px" Bottom="579px" />
+        <Frame X="215.1062mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="5" Right="415px" Bottom="20px" />
+        <Frame X="320.1458mm" Y="3.96875mm" Width="94.98542mm" Height="139.9646mm" Flow="body" Anchors="" FlowIndex="6" Right="18px" Bottom="579px" />
+        <Frame X="319.8813mm" Y="151.8708mm" Width="94.98542mm" Height="139.9646mm" Anchors="" FlowIndex="7" Right="19px" Bottom="20px" />
+    </Page>
+</PageStyles>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Feature 1"
+    Comment="only applies to Feature 1"
+    OriginalName="3DCharts" />
+</CatapultConditionTagSet>

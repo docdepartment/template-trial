@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Keith/Reference documents/TemplateDescripton/TemplateDescripton.pdf"
+  BuildVersion="12.0.5991.25330">
+  <Files>
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/commongfx/Logo.jpg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/commongfx/doc-deprt-logo-1-9x1-45.png" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/Resources/Stylesheets/A4-Styles.css" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/warning/EN/NOTICE_Warning_online.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/caution/EN/NOTICE_Caution_online.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/notice/EN/NOTICE_Notice_Online.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/tip/EN/NOTICE_Tip_Online.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/WEEE.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/warning/EN/NOTICE_Warning_A4.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/caution/EN/NOTICE_Caution_A4.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/notice/EN/NOTICE_Notice_A4.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/Noticegfx/tip/EN/NOTICE_Tip_A4.svg" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/commongfx/manage_templates_btn_16x15.png" />
+    <Url
+      Source="Output/Keith/Temporary/Reference documents/TemplateDescripton/TemplateDescripton_619813E2/gfx/commongfx/new_template_folder_btn_16x15.png" />
+    <Url
+      Source="Output/Keith/Reference documents/TemplateDescripton/TemplateDescripton.pdf" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Template Description"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Reference documents/TemplateDescription.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/A4-Styles.css"
+  ConditionTagExpression="include[&quot;Feature.Feature 1&quot; or Guide.A4PDF or Guide.UserGuideandHelp or TargetType.PrintOnly] exclude[Guide.A3QSG or Guide.HTML5 or Guide.OnlineHelp or Guide.ResponsiveHelp or Guide.Word or TargetType.ScreenOnly] "
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/IntendedPurpose">This document advises doc-department staff on how to use the standard template.</Variable>
+    <Variable
+      Name="Variables/BookType">Template Description</Variable>
+    <Variable
+      Name="Variables/ProductName">Product Name - PDF</Variable>
+    <Variable
+      Name="Variables/Software Version">X.X</Variable>
+    <Variable
+      Name="Variables/CustomerName">Produced on behalf of doc-department</Variable>
+    <Variable
+      Name="Variables/DocVersion">3</Variable>
+    <Variable
+      Name="Variables/DocID">TEMPL1234</Variable>
+    <Variable
+      Name="Variables/CompanyName">doc-department</Variable>
+    <Variable
+      Name="Variables/Draft">Draft2</Variable>
+  </Variables>
+  <PDF
+    DownsampleImages="true"
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    TitleBar="DocumentTitle"
+    Tagged="false"
+    CollapsedBookmarks="true" />
+  <DocumentProperties
+    Title="Template Description"
+    Author="doc-department" />
+</CatapultTarget>

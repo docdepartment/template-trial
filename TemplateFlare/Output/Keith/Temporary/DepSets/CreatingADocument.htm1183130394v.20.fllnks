@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Creating a document"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/TemplateDescription/Topics.htm" />
+    <Link
+      Url="Content/TemplateDescription/TOCs.htm" />
+    <Link
+      Url="Content/TemplateDescription/Styles.htm" />
+    <Link
+      Url="Content/TemplateDescription/PageLayouts.htm" />
+    <Link
+      Url="Content/TemplateDescription/MasterPages.htm" />
+    <Link
+      Url="Content/TemplateDescription/Skins.htm" />
+    <Link
+      Url="Content/TemplateDescription/Proxies.htm" />
+    <Link
+      Url="Content/TemplateDescription/Variables.htm" />
+    <Link
+      Url="Content/TemplateDescription/Conditions.htm" />
+    <Link
+      Url="Content/TemplateDescription/Targets.htm" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="Content/TemplateDescription/Topics.htm" />
+    <Link
+      Url="Content/TemplateDescription/TOCs.htm" />
+    <Link
+      Url="Content/TemplateDescription/Styles.htm" />
+    <Link
+      Url="Content/TemplateDescription/PageLayouts.htm" />
+    <Link
+      Url="Content/TemplateDescription/MasterPages.htm" />
+    <Link
+      Url="Content/TemplateDescription/Skins.htm" />
+    <Link
+      Url="Content/TemplateDescription/Proxies.htm" />
+    <Link
+      Url="Content/TemplateDescription/Variables.htm" />
+    <Link
+      Url="Content/TemplateDescription/Conditions.htm" />
+    <Link
+      Url="Content/TemplateDescription/Targets.htm" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

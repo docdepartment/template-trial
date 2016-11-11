@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Target template for online help output (CHM)"
+  Type="HtmlHelp"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/A4-Styles.css"
+  Medium="non-print"
+  MoveOutputContentToRoot="true"
+  InjectDocType="true"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="true"
+  ExcludeUnreferencedContent="true"
+  ConditionTagExpression="include[TargetType.HTMLHelp or TargetType.ScreenOnly] exclude[TargetType.HTML5 or TargetType.PDF or TargetType.PrintOnly or TargetType.ResponsiveHelp or Guide.Word] "
+  MasterPage="/Content/Resources/MasterPages/OnlineHelp.flmsp"
+  GetLatestBeforeCompile="false"
+  GenerateAllSkins="false"
+  Skin="/Project/Skins/OnlineHelp.flskn"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="png"
+  DisableAutoSync="false">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/BookType">Online Help</Variable>
+    <Variable
+      Name="Variables/ProductName">Product</Variable>
+    <Variable
+      Name="Variables/Software Version">Version.ver</Variable>
+    <Variable
+      Name="Variables/Draft">DRAFT 1</Variable>
+    <Variable
+      Name="Variables/DocID">12342</Variable>
+    <Variable
+      Name="Variables/DocVersion">1</Variable>
+    <Variable
+      Name="Variables/IntendedPurpose">This is the online help for ...</Variable>
+  </Variables>
+  <Glossaries />
+  <MetaTags
+    Enabled="false" />
+</CatapultTarget>

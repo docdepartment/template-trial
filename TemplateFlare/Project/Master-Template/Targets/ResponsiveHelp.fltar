@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Target template for a Responsive Help project. NOTE: Refer to the Template Description for information on setting up a TOC specifically for Responsive Help projects"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/Topics/Home.htm"
+  Medium="non-print"
+  MoveOutputContentToRoot="true"
+  InjectDocType="false"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="false"
+  ExcludeUnreferencedContent="true"
+  ConditionTagExpression="include[TargetType.ResponsiveHelp] exclude[TargetType.HTML5 or TargetType.HTMLHelp or TargetType.PDF or TargetType.PrintOnly or TargetType.ScreenOnly or Guide.Word] "
+  GetLatestBeforeCompile="false"
+  GenerateAllSkins="false"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="jpg"
+  Skin="/Project/Skins/ResponsiveHelp - Top Navigation.flskn"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/BookType">Responsive Help</Variable>
+    <Variable
+      Name="Variables/ProductName">Product</Variable>
+    <Variable
+      Name="Variables/Software Version">Version.ver</Variable>
+    <Variable
+      Name="Variables/Draft">DRAFT 1</Variable>
+    <Variable
+      Name="Variables/DocID">12345</Variable>
+    <Variable
+      Name="Variables/DocVersion">1</Variable>
+  </Variables>
+  <Glossaries />
+</CatapultTarget>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Project/TOCs/Reference documents/TemplateDescription.fltoc" />
+    <Link
+      Url="Content/Resources/Stylesheets/A4-Styles.css" />
+    <Link
+      Url="Content/Resources/PageLayouts/A4-Guide-body.flpgl" />
+    <Link
+      Url="Project/VariableSets/Variables.flvar" />
+    <Link
+      Url="Project/ConditionTagSets/Feature.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/Guide.flcts" />
+    <Link
+      Url="Project/ConditionTagSets/TargetType.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="7" MadCap:lastHeight="190" MadCap:lastWidth="752">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/ResponsiveHelp.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div class="content">
+            <div id="contentBody">
+                <div class="row collapse">
+                    <div class="sideContent">
+                        <div class="clearfix">
+                            <MadCap:topicToolbarProxy />
+                        </div>
+                        <MadCap:menuProxy style="mc-context-sensitive: True;mc-include-parent: True;mc-include-siblings: False;mc-include-children: True;" data-mc-skin="/Project/Skins/SideMenu.flskn" />
+                    </div>
+                    <MadCap:breadcrumbsProxy />
+                    <div class="overflow">
+                        <MadCap:bodyProxy />
+                    </div>
+                    <p class="footermaster"><MadCap:variable name="Variables.CompanyName" /> <MadCap:variable name="Variables.DocID" /> - <MadCap:variable name="Variables.DocVersion" /> <MadCap:variable name="Variables.Draft" /></p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

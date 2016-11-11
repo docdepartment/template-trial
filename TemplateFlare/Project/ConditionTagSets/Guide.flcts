@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="UserGuideandHelp"
+    Comment="only used in UserGuide and Online Help"
+    OriginalName="User" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="A4PDF"
+    Comment="Only content to be used in A4 PDF output" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="HTML5"
+    Comment="Only content to be used in HTML5 Online output" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="OnlineHelp"
+    Comment="Only content to be used in Online Help output" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Word"
+    Comment="Only content to be used in Word output" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="ResponsiveHelp"
+    Comment="Only content to be used in Responsive Help output" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="A3QSG"
+    Comment="Only content to be used in A3 Quick Start Guide output" />
+</CatapultConditionTagSet>

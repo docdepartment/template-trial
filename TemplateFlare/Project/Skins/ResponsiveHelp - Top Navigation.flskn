@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="2"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="Responsive Help template"
+  EnableResponsiveOutput="true"
+  RemoveImagesOnSave="true">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="doc-dept-logo-200px.png">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</Resource>
+    </Resources>
+    <Styles>
+      <Medium
+        Name="Tablet">
+        <Style
+          Name="Navigation Slide Out Button">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Navigation Panel Item">
+          <Properties>
+            <Property
+              Name="LineHeight">1</Property>
+          </Properties>
+        </Style>
+        <Style
+          Name="Search Filter">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down">
+          <Properties></Properties>
+        </Style>
+        <Style
+          Name="Search Filter Drop-down (hover)">
+          <Properties></Properties>
+        </Style>
+      </Medium>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="Height">122px</Property>
+          <Property
+            Name="BackgroundColor">#292928</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu Item">
+        <Classes>
+          <StyleClass
+            Name="2nd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+              <Property
+                Name="MarginRight">0px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="3rd Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+          <StyleClass
+            Name="4th Level">
+            <Properties>
+              <Property
+                Name="PaddingRight">10px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+        <Properties></Properties>
+      </Style>
+      <Style
+        Name="Search Input">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#ffffff</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('doc-dept-logo-200px.png')</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Submit Button">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#5a87c6</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Stylesheet></Stylesheet>
+  </Stylesheet>
+  <WebHelpOptions
+    NavigationPanePosition="Right" />
+  <Strings />
+</CatapultSkin>

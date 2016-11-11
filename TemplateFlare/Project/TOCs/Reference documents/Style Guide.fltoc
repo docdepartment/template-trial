@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="doc department style guide"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-cover.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    conditions="TargetType.PrintOnly"
+    Link="/Content/Common/Spacer.htm">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl">
+      <TocEntry
+        Title="Copyright"
+        Link="/Content/Common/Front and Back matter/Copyright.htm"
+        BreakType="none"
+        PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        PageType="normal"
+        ComputeToc="false"
+        ReplaceMergeNode="false"></TocEntry>
+      <TocEntry
+        Title="Intended purpose"
+        Link="/Content/Common/Front and Back matter/Intended Purpose.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Conventions"
+        Link="/Content/Common/Front and Back matter/Conventions.htm"
+        BreakType="none"
+        StartSection="false"
+        PageNumberReset="continue">
+        <TocEntry
+          Title="Safety notices"
+          Link="/Content/Common/Front and Back matter/SafetyNotices.htm" />
+      </TocEntry>
+      <TocEntry
+        Title="Contact address"
+        Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="TOC"
+    Link="/Content/Common/Front and Back matter/TOC.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl"
+    AutoEndOnLeftPage="enabled"
+    PageType="first"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="TargetType.PrintOnly" />
+  <TocEntry
+    Title="Overview"
+    Link="/Content/Style Guide/Overview.htm"
+    BreakType="chapter"
+    ChapterNumber="1"
+    ChapterNumberReset="reset"
+    StartSection="true"
+    PageNumberReset="reset"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageType="first"
+    PageNumber="1"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    AutoEndOnLeftPage="disabled"
+    PageNumberFormat="decimal">
+    <TocEntry
+      Title="Other Style Guides"
+      Link="/Content/Style Guide/OtherStylesGuides.htm" />
+    <TocEntry
+      Title="Update procedure"
+      Link="/Content/Style Guide/UpdateProcedure.htm" />
+    <TocEntry
+      Title="Information Mapping"
+      Link="/Content/Style Guide/Information Mapping.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Audience"
+    Link="/Content/Style Guide/Audience.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageType="first"
+    ComputeToc="false"
+    AutoEndOnLeftPage="disabled">
+    <TocEntry
+      Title="Localization"
+      Link="/Content/Style Guide/Localization.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Front matter"
+    Link="/Content/Style Guide/LegalFrontMatter.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Safety Notices"
+      Link="/Content/Style Guide/Notices.htm" />
+    <TocEntry
+      Title="Trademarks"
+      Link="/Content/Style Guide/LegalTrademarks.htm" />
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/Style Guide/LegalCopyright.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Topic Creation"
+    Link="/Content/Style Guide/Topic Creation.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="first">
+    <TocEntry
+      Title="Common Features"
+      Link="/Content/Style Guide/Common Features.htm" />
+    <TocEntry
+      Title="Topic types"
+      Link="/Content/Style Guide/Topic types.htm">
+      <TocEntry
+        Title="Concepts"
+        Link="/Content/Style Guide/Concepts.htm" />
+      <TocEntry
+        Title="References"
+        Link="/Content/Style Guide/Reference.htm"></TocEntry>
+      <TocEntry
+        Title="Tasks"
+        Link="/Content/Style Guide/Procedures.htm">
+        <TocEntry
+          Title="Structure of a task"
+          Link="/Content/Style Guide/TaskStructure.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Single-Sourcing"
+      Link="/Content/Style Guide/Single-Sourcing.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Semantic mark-up"
+    Link="/Content/Style Guide/SemanticMarkup.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Conditional text"
+      Link="/Content/Style Guide/ConditionalText.htm" />
+    <TocEntry
+      Title="Indexing"
+      Link="/Content/Style Guide/Indexing.htm" />
+    <TocEntry
+      Title="Cross-references"
+      Link="/Content/Style Guide/CrossReferences.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Layout"
+    Link="/Content/Style Guide/Layout.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="first">
+    <TocEntry
+      Title="Headings"
+      Link="/Content/Style Guide/Headings.htm" />
+    <TocEntry
+      Title="Tables"
+      Link="/Content/Style Guide/Tables.htm" />
+    <TocEntry
+      Title="Lists"
+      Link="/Content/Style Guide/Lists.htm">
+      <TocEntry
+        Title="Ordered"
+        Link="/Content/Style Guide/ListsOrdered.htm"></TocEntry>
+      <TocEntry
+        Title="Unordered"
+        Link="/Content/Style Guide/ListsUnOrdered.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Graphics"
+      Link="/Content/Style Guide/Graphics.htm">
+      <TocEntry
+        Title="Content"
+        Link="/Content/Style Guide/GraphicsContent.htm" />
+      <TocEntry
+        Title="Callouts"
+        Link="/Content/Style Guide/GraphicsCallouts.htm" />
+      <TocEntry
+        Title="Captions"
+        Link="/Content/Style Guide/GraphicsCaptions.htm"></TocEntry>
+      <TocEntry
+        Title="Types of grapics"
+        Link="/Content/Style Guide/GraphicsTypes.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Writing"
+    Link="/Content/Style Guide/Writing.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="first">
+    <TocEntry
+      Title="Language"
+      Link="/Content/Style Guide/WritingStyleLanguage.htm"></TocEntry>
+    <TocEntry
+      Title="Clarity"
+      Link="/Content/Style Guide/WritingStyleClarity.htm"></TocEntry>
+    <TocEntry
+      Title="Definitions"
+      Link="/Content/Style Guide/Definitions.htm" />
+    <TocEntry
+      Title="Punctuation"
+      Link="/Content/Style Guide/Punctuation.htm">
+      <TocEntry
+        Title="Apostophes"
+        Link="/Content/Style Guide/PunctuationApostophes.htm"></TocEntry>
+      <TocEntry
+        Title="Colons"
+        Link="/Content/Style Guide/PunctuationColon.htm" />
+      <TocEntry
+        Title="Commas"
+        Link="/Content/Style Guide/PunctuationCommas.htm" />
+      <TocEntry
+        Title="Dashes and hyphens"
+        Link="/Content/Style Guide/PunctuationDashesHyphens.htm" />
+      <TocEntry
+        Title="Ellipses"
+        Link="/Content/Style Guide/PunctuationEllipses.htm" />
+      <TocEntry
+        Title="Full stops"
+        Link="/Content/Style Guide/PunctuationFullStop.htm" />
+      <TocEntry
+        Title="Parenthesis"
+        Link="/Content/Style Guide/PunctuationParenthesis.htm" />
+      <TocEntry
+        Title="Quotation marks"
+        Link="/Content/Style Guide/PunctuationQuotation.htm" />
+      <TocEntry
+        Title="Semicolons"
+        Link="/Content/Style Guide/PunctuationSemiColons.htm" />
+      <TocEntry
+        Title="Slashes"
+        Link="/Content/Style Guide/PunctuationSlashes.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Capitalization"
+      Link="/Content/Style Guide/Capitalization.htm"></TocEntry>
+    <TocEntry
+      Title="Numbers"
+      Link="/Content/Style Guide/Numbers.htm">
+      <TocEntry
+        Title="Units and measurements"
+        Link="/Content/Style Guide/UnitsMeasures.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Common Terminology"
+    Link="/Content/Style Guide/Common words/CommonTerminology.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    ChapterNumberFormat="upper-alpha"
+    ChapterNumber="1"
+    ChapterNumberReset="reset"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    PageType="first">
+    <TocEntry
+      Title="User Interface Terminology"
+      Link="/Content/Style Guide/Common words/UITerminology.htm" />
+    <TocEntry
+      Title="Common phrases"
+      Link="/Content/Style Guide/Common words/CommonPhrases.htm">
+      <TocEntry
+        Title="Introducing features"
+        Link="/Content/Style Guide/Common words/IntroducingFeatures.htm" />
+      <TocEntry
+        Title="Tasks"
+        Link="/Content/Style Guide/Common words/Tasks.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Banned words"
+      Link="/Content/Style Guide/Common words/BannedWords.htm"
+      StartSection="false" />
+    <TocEntry
+      Title="Common Words"
+      Link="/Content/Style Guide/CommonWords.htm"
+      BreakType="none"
+      PageType="first"
+      StartSection="false"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="A"
+        Link="/Content/Style Guide/Common words/A.htm" />
+      <TocEntry
+        Title="B"
+        Link="/Content/Style Guide/Common words/B.htm" />
+      <TocEntry
+        Title="C"
+        Link="/Content/Style Guide/Common words/C.htm"></TocEntry>
+      <TocEntry
+        Title="D"
+        Link="/Content/Style Guide/Common words/D.htm"></TocEntry>
+      <TocEntry
+        Title="E"
+        Link="/Content/Style Guide/Common words/E.htm" />
+      <TocEntry
+        Title="F"
+        Link="/Content/Style Guide/Common words/F.htm" />
+      <TocEntry
+        Title="G"
+        Link="/Content/Style Guide/Common words/G.htm" />
+      <TocEntry
+        Title="H"
+        Link="/Content/Style Guide/Common words/H.htm" />
+      <TocEntry
+        Title="I"
+        Link="/Content/Style Guide/Common words/I.htm" />
+      <TocEntry
+        Title="J"
+        Link="/Content/Style Guide/Common words/J.htm" />
+      <TocEntry
+        Title="K"
+        Link="/Content/Style Guide/Common words/K.htm" />
+      <TocEntry
+        Title="L"
+        Link="/Content/Style Guide/Common words/L.htm" />
+      <TocEntry
+        Title="M"
+        Link="/Content/Style Guide/Common words/M.htm" />
+      <TocEntry
+        Title="N"
+        Link="/Content/Style Guide/Common words/N.htm" />
+      <TocEntry
+        Title="O"
+        Link="/Content/Style Guide/Common words/O.htm" />
+      <TocEntry
+        Title="P"
+        Link="/Content/Style Guide/Common words/P.htm" />
+      <TocEntry
+        Title="Q"
+        Link="/Content/Style Guide/Common words/Q.htm" />
+      <TocEntry
+        Title="R"
+        Link="/Content/Style Guide/Common words/R.htm" />
+      <TocEntry
+        Title="S"
+        Link="/Content/Style Guide/Common words/S.htm" />
+      <TocEntry
+        Title="T"
+        Link="/Content/Style Guide/Common words/T.htm" />
+      <TocEntry
+        Title="U"
+        Link="/Content/Style Guide/Common words/U.htm" />
+      <TocEntry
+        Title="V"
+        Link="/Content/Style Guide/Common words/V.htm" />
+      <TocEntry
+        Title="W"
+        Link="/Content/Style Guide/Common words/W.htm" />
+      <TocEntry
+        Title="X"
+        Link="/Content/Style Guide/Common words/X.htm" />
+      <TocEntry
+        Title="Y"
+        Link="/Content/Style Guide/Common words/Y.htm" />
+      <TocEntry
+        Title="Z"
+        Link="/Content/Style Guide/Common words/Z.htm" />
+    </TocEntry>
+  </TocEntry>
+</CatapultToc>

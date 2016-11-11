@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Target template for a PDF document" Type="PDF" Destinations="" GlossaryTermConversion="marked" MasterPageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl" MasterStylesheet="/Content/Resources/Stylesheets/A4-Styles.css" GetLatestBeforeCompile="false" PatchHeadingLevels="true" InjectBookHeadings="false" RemoveImagesFromHeadings="true" DisableAutoSync="false" ConditionTagExpression="include[TargetType.PDF or TargetType.PrintOnly] exclude[TargetType.HTML5 or TargetType.HTMLHelp or TargetType.ResponsiveHelp or TargetType.ScreenOnly or Guide.Word] ">
+    <PrintedOutput CollapseMargins="true" GenerateIndexProxy="false" />
+    <Variables>
+        <Variable Name="Variables/IntendedPurpose">This document describes...</Variable>
+        <Variable Name="Variables/BookType">PDF Guide</Variable>
+        <Variable Name="Variables/Software Version">Version.ver</Variable>
+        <Variable Name="Variables/ProductName">Product</Variable>
+        <Variable Name="Variables/CustomerName">Produced on behalf of CUSTOMERNAME</Variable>
+        <Variable Name="Variables/DocID">12345</Variable>
+        <Variable Name="Variables/DocVersion">v1</Variable>
+        <Variable Name="Variables/Draft">DRAFT X</Variable>
+        <Variable Name="Variables/CompanyName">New Client</Variable>
+    </Variables>
+    <Glossaries />
+    <PDF DownsampleImages="true" ShowUsedBookmarks="false" InitialMagnification="Fit" TitleBar="FileName" CollapsedBookmarks="true" />
+    <DocumentProperties Title="PDF Guide" Author="doc-department" />
+</CatapultTarget>

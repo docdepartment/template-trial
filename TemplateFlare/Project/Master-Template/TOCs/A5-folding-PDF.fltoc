@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  Comment="Master template TOC - this template works with all output types.">
+  <TocEntry
+    Title="Quick Start Guide"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/QuickStartGuide-CashmasterOne.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false">
+    <TocEntry
+      Title="Contact address"
+      Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    <TocEntry
+      Title="Spacer"
+      Link="/Content/Common/Spacer.htm" />
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/Common/Front and Back matter/Copyright.htm"></TocEntry>
+    <TocEntry
+      Title="Safety Notices"
+      Link="/Content/Common/Front and Back matter/SafetyNotices.htm"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
+    <TocEntry
+      Title="Regulatory and approvals"
+      Link="/Content/Common/Front and Back matter/Regulatory and approvals.htm" />
+    <TocEntry
+      Title="Spacer"
+      Link="/Content/Common/Spacer.htm" />
+    <TocEntry
+      Title="Package Contents-Image"
+      Link="/Content/TemplateDescription/QSG/PackageContents-Image.htm" />
+    <TocEntry
+      Title="[%=Variables.ProductName%]"
+      Link="/Content/TemplateDescription/QSG/PackageContents-List.htm" />
+    <TocEntry
+      Title="Spacer"
+      Link="/Content/Common/Spacer.htm" />
+    <TocEntry
+      Title="[%=Variables.ProductName%] Installation"
+      Link="/Content/TemplateDescription/QSG/Installation.htm" />
+    <TocEntry
+      Title="Quick Start Guide Overview"
+      Link="/Content/TemplateDescription/QSG/QSG-Overview.htm" />
+  </TocEntry>
+</CatapultToc>

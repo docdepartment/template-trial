@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="This skin defines the look of the navigation options at the top of each topic, below the main heading menu." ComponentType="TopicToolbar" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Toolbar">
+                <Properties>
+                    <Property Name="MarginBottom">33px</Property>
+                    <Property Name="MarginRight">-4px</Property>
+                    <Property Name="Float">right</Property>
+                </Properties>
+            </Style>
+            <Medium Name="Mobile">
+                <Style Name="Toolbar">
+                    <Properties>
+                        <Property Name="Display">none</Property>
+                    </Properties>
+                </Style>
+            </Medium>
+        </Styles>
+    </Stylesheet>
+    <TopicToolbar EnableCustomLayout="true" Buttons="TopicRatings|Separator|EditUserProfile|Print|ExpandAll" />
+    <Strings />
+</CatapultSkin>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="Other Style Guides"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="https://www.google.co.uk/url" />
+    <Link
+      Url="http://www.oed.com/" />
+    <Link
+      Url="https://material.google.com/style/writing.html" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="https://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjK0pbgyfrOAhUBKcAKHdheAGAQFggcMAA&amp;url=https%3A%2F%2Feucalyptus.atlassian.net%2Fwiki%2Fdownload%2Fattachments%2F76611622%2Fmicrosoft_manual_of_style_fourth_edition.pdf%3Fversion%3D2%26modificationDate%3D1424379604164%26api%3Dv2&amp;usg=AFQjCNH4LGu0suDPoWJLSCyhI_3JAdT8Ww&amp;sig2=Jbsm6HgIshBhgTHObIE50g" />
+    <Link
+      Url="http://www.oed.com/" />
+    <Link
+      Url="https://material.google.com/style/writing.html" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

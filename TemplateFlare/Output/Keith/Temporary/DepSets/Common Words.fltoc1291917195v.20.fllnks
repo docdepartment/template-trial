@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Style Guide/Common words/A.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/B.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/C.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/D.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/E.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/F.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/G.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/H.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/I.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/J.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/K.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/L.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/M.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/N.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/O.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/P.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/Q.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/R.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/S.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/T.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/U.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/V.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/W.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/X.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/Y.htm" />
+    <Link
+      Url="Content/Style Guide/Common words/Z.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

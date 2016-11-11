@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Resources/PageLayouts/A4-Guide-cover.flpgl" />
+    <Link
+      Url="Content/Common/Front and Back matter/DocumentInformation.htm" />
+    <Link
+      Url="Content/Common/Front and Back matter/Copyright.htm" />
+    <Link
+      Url="Content/Common/Front and Back matter/Intended Purpose.htm" />
+    <Link
+      Url="Content/Common/Front and Back matter/Conventions.htm" />
+    <Link
+      Url="Content/Common/Front and Back matter/SafetyNotices.htm" />
+    <Link
+      Url="Content/Common/Front and Back matter/Contact address.htm" />
+    <Link
+      Url="Content/Common/Spacer.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/A4-Guide-preface.flpgl" />
+    <Link
+      Url="Content/Common/Front and Back matter/TOC.htm" />
+    <Link
+      Url="Content/TemplateDescription/CreatingADocument.htm" />
+    <Link
+      Url="Content/TemplateDescription/SettingUp.htm" />
+    <Link
+      Url="Content/TemplateDescription/SetupDefineTemplateLocation.htm" />
+    <Link
+      Url="Content/TemplateDescription/CreateTOC.htm" />
+    <Link
+      Url="Content/TemplateDescription/AvailableTOCTemplates.htm" />
+    <Link
+      Url="Content/TemplateDescription/CreateTarget.htm" />
+    <Link
+      Url="Content/TemplateDescription/Output types.htm" />
+    <Link
+      Url="Content/TemplateDescription/Template Structure.htm" />
+    <Link
+      Url="Content/TemplateDescription/PlaceholderBook.htm" />
+    <Link
+      Url="Content/TemplateDescription/Preface.htm" />
+    <Link
+      Url="Content/TemplateDescription/DocumentInformation.htm" />
+    <Link
+      Url="Content/TemplateDescription/Copyright.htm" />
+    <Link
+      Url="Content/TemplateDescription/About.htm" />
+    <Link
+      Url="Content/TemplateDescription/Conventions.htm" />
+    <Link
+      Url="Content/TemplateDescription/Contact address.htm" />
+    <Link
+      Url="Content/TemplateDescription/TOCPlaceholder.htm" />
+    <Link
+      Url="Content/TemplateDescription/Chapter 1.htm" />
+    <Link
+      Url="Content/TemplateDescription/Subtopic.htm" />
+    <Link
+      Url="Content/TemplateDescription/Chapter 2.htm" />
+    <Link
+      Url="Content/TemplateDescription/Appendix 1.htm" />
+    <Link
+      Url="Content/TemplateDescription/Appendices.htm" />
+    <Link
+      Url="Content/TemplateDescription/Indexes.htm" />
+    <Link
+      Url="Content/TemplateDescription/OutputRequirements.htm" />
+    <Link
+      Url="Content/TemplateDescription/OutputRequirementsResponsiveHelp.htm" />
+    <Link
+      Url="Content/TemplateDescription/QSG/QSG-Overview.htm" />
+    <Link
+      Url="Content/TemplateDescription/A5 folding PDF.htm" />
+    <Link
+      Url="Content/TemplateDescription/A5 PDF Guide.htm" />
+    <Link
+      Url="Content/TemplateDescription/OutputRequirementsMultiOutput.htm" />
+    <Link
+      Url="Content/TemplateDescription/Elements.htm" />
+    <Link
+      Url="Content/TemplateDescription/TOCs.htm" />
+    <Link
+      Url="Content/TemplateDescription/PageLayouts.htm" />
+    <Link
+      Url="Content/TemplateDescription/MasterPages.htm" />
+    <Link
+      Url="Content/TemplateDescription/Skins.htm" />
+    <Link
+      Url="Content/TemplateDescription/Proxies.htm" />
+    <Link
+      Url="Content/TemplateDescription/Variables.htm" />
+    <Link
+      Url="Content/TemplateDescription/Snippets.htm" />
+    <Link
+      Url="Content/TemplateDescription/Conditions.htm" />
+    <Link
+      Url="Content/TemplateDescription/Targets.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsGeneral.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsSkins.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsCondText.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsVariables.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsPDFOtions.htm" />
+    <Link
+      Url="Content/TemplateDescription/TargetsAdvanced.htm" />
+    <Link
+      Url="Content/TemplateDescription/Topics.htm" />
+    <Link
+      Url="Content/TemplateDescription/Styles.htm" />
+    <Link
+      Url="Content/TemplateDescription/Stylesheets-A4-StylesCSS.htm" />
+    <Link
+      Url="Content/TemplateDescription/Stylesheets-ResponsiveHelpCSS.htm" />
+    <Link
+      Url="Content/TemplateDescription/Stylesheets-StylesForHomePageCSS.htm" />
+    <Link
+      Url="Content/TemplateDescription/Tables.htm" />
+    <Link
+      Url="Content/TemplateDescription/TableCaptions.htm" />
+    <Link
+      Url="Content/TemplateDescription/Figures.htm" />
+    <Link
+      Url="Content/TemplateDescription/Cross-references.htm" />
+    <Link
+      Url="Content/TemplateDescription/ResponsiveHelpTopics.htm" />
+    <Link
+      Url="Content/TemplateDescription/HeroImage.htm" />
+    <Link
+      Url="Content/TemplateDescription/SlideShowApp.htm" />
+    <Link
+      Url="Content/TemplateDescription/Safety notices.htm" />
+    <Link
+      Url="Content/TemplateDescription/Using safety notices.htm" />
+    <Link
+      Url="Content/TemplateDescription/Content of safety notices.htm" />
+    <Link
+      Url="Content/TemplateDescription/FileStructure.htm" />
+    <Link
+      Url="Project/ConditionTagSets/TargetType.flcts" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="TargetType.ScreenOnly" />
+    <Condition
+      Tag="TargetType.PrintOnly" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

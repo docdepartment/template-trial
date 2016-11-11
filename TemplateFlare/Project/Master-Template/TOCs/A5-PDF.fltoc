@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="FrontMatter"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A5-Guide-preface.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageType="first">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm">
+      <TocEntry
+        Title="Copyright"
+        Link="/Content/Common/Front and Back matter/Copyright.htm"
+        BreakType="none"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        PageLayout="/Content/Resources/PageLayouts/A5-Guide-frontmatter.flpgl"></TocEntry>
+      <TocEntry
+        Title="Intended Purpose"
+        Link="/Content/Common/Front and Back matter/Intended Purpose.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Conventions"
+        Link="/Content/Common/Front and Back matter/Conventions.htm"
+        BreakType="none"
+        StartSection="false"
+        PageLayout="/Content/Resources/PageLayouts/A5-Guide-frontmatter.flpgl"
+        AutoEndOnLeftPage="disabled">
+        <TocEntry
+          Title="Safety notices"
+          Link="/Content/Common/Front and Back matter/SafetyNotices.htm"
+          BreakType="none"
+          StartSection="false"
+          PageLayout="/Content/Resources/PageLayouts/A5-Guide-frontmatter.flpgl"></TocEntry>
+      </TocEntry>
+      <TocEntry
+        Title="Contact address"
+        Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="TOC"
+    Link="/Content/Common/Front and Back matter/TOC.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/A5-Guide-preface.flpgl"></TocEntry>
+  <TocEntry
+    Title="Chapter 1"
+    Link="/Content/PlaceHolder-Topics/Chapter1.htm"
+    BreakType="chapter"
+    PageType="first"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageNumber="1"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    AutoEndOnLeftPage="disabled"
+    PageNumberFormat="decimal">
+    <TocEntry
+      Title="Version 1"
+      Link="/Content/PlaceHolder-Topics/Version1.htm">
+      <TocEntry
+        Title="Version 2"
+        Link="/Content/PlaceHolder-Topics/Version2.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Version 2"
+      Link="/Content/PlaceHolder-Topics/Version2.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Other chapters"
+    Link="/Content/PlaceHolder-Topics/OtherChapters.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    AutoEndOnLeftPage="disabled"></TocEntry>
+  <TocEntry
+    Title="Appendix" />
+</CatapultToc>

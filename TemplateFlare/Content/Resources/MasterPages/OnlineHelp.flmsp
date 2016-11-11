@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="232" MadCap:lastWidth="359">
+    <head>
+    </head>
+    <body>
+        <div class="indent" MadCap:conditions="TargetType.HTML5">
+            <MadCap:breadcrumbsProxy class="p.breadcrumb" />
+        </div>
+        <div class="indent">
+            <MadCap:bodyProxy />
+        </div>
+        <div class="indent">
+            <MadCap:endnotesProxy />
+        </div>
+        <table style="width: 100%;border-top-style: dashed;border-top-width: 1px;border-top-color: #00245d;">
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td>
+                        <p class="footerleft"><a href="../../Common/Front and Back matter/Copyright.htm">© <MadCap:variable name="Variables.CompanyName" /></a> - <MadCap:variable name="Variables.DocID" /> - <a href="../../Style Guide/DocumentInformation.htm"><MadCap:variable name="Variables.DocVersion" /><MadCap:variable name="Variables.Draft" /></a></p>
+                    </td>
+                    <td>
+                        <p class="footerright">
+                            <img src="../../gfx/commongfx/doc-department_logo_212x31.png" />
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

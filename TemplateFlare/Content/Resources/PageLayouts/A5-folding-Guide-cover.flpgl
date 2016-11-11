@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Cover" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="normal" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="24.07708mm" Y="71px" Width="89.69375mm" Height="51px" Flow="body" Right="129px" Bottom="672px" Anchors="" />
+        <Frame X="24.07708mm" Y="169.8625mm" Width="105.0396mm" Height="18.78542mm" Flow="footer" Anchors="" Right="71px" Bottom="81px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="booksubtitle"><MadCap:variable xhtml:name="Variables.BookType" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="23.8125mm" Y="74px" Width="105.0396mm" Height="287px" Flow="header" Right="72px" Bottom="433px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="headerleft">
+                            <xhtml:img xhtml:src="../../gfx/commongfx/CashmasterOne-ProPlusMax-logo.eps" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

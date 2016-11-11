@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  Comment="Master template TOC - this template works with all output types.">
+  <TocEntry
+    Title="Placeholder book"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-cover.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    PageType="normal"
+    ReplaceMergeNode="false"
+    conditions="TargetType.PrintOnly"
+    Link="/Content/Common/Spacer.htm">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl">
+      <TocEntry
+        Title="Copyright"
+        Link="/Content/Common/Front and Back matter/Copyright.htm"
+        BreakType="none"
+        PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        PageType="normal"
+        ComputeToc="false"
+        ReplaceMergeNode="false"></TocEntry>
+      <TocEntry
+        Title="Intended purpose"
+        Link="/Content/Common/Front and Back matter/Intended Purpose.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Conventions"
+        Link="/Content/Common/Front and Back matter/Conventions.htm"
+        BreakType="none"
+        StartSection="false"
+        PageNumberReset="continue">
+        <TocEntry
+          Title="Safety notices"
+          Link="/Content/Common/Front and Back matter/SafetyNotices.htm"
+          StartSection="false"
+          SectionNumberReset="continue"
+          VolumeNumberReset="same"
+          ChapterNumberReset="continue"
+          ComputeToc="false"
+          ReplaceMergeNode="false" />
+      </TocEntry>
+      <TocEntry
+        Title="Contact address"
+        Link="/Content/Common/Front and Back matter/Contact address.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Online Help"
+    BreakType="chapter"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-cover.flpgl"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="continue"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    PageType="first"
+    conditions="TargetType.ScreenOnly">
+    <TocEntry
+      Title="Document information"
+      Link="/Content/Common/Front and Back matter/DocumentInformation.htm" />
+    <TocEntry
+      Title="Copyright"
+      Link="/Content/Common/Front and Back matter/Copyright.htm"></TocEntry>
+    <TocEntry
+      Title="Intended Purpose"
+      Link="/Content/Common/Front and Back matter/Intended Purpose.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="TOC"
+    Link="/Content/Common/Front and Back matter/TOC.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    AutoEndOnLeftPage="disabled"
+    PageType="normal"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-preface.flpgl"
+    conditions="TargetType.PrintOnly" />
+  <TocEntry
+    Title="Chapter 1"
+    Link="/Content/PlaceHolder-Topics/Chapter1.htm"
+    BreakType="chapter"
+    PageType="first"
+    PageNumberReset="continue"
+    StartSection="false"
+    PageNumber="1"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    AutoEndOnLeftPage="disabled"
+    PageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl"
+    PageNumberFormat="decimal">
+    <TocEntry
+      Title="Version 1"
+      Link="/Content/PlaceHolder-Topics/Version1.htm">
+      <TocEntry
+        Title="Version 2"
+        Link="/Content/PlaceHolder-Topics/Version2.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Version 2"
+      Link="/Content/PlaceHolder-Topics/Version2.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="Other chapters"
+    Link="/Content/PlaceHolder-Topics/OtherChapters.htm"
+    BreakType="chapter"
+    PageType="first"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    AutoEndOnLeftPage="disabled" />
+  <TocEntry
+    Title="Appendix" />
+</CatapultToc>

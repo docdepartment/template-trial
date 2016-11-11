@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="Target template for a Word output" Type="MsWord" Destinations="" GlossaryTermConversion="marked" MasterStylesheet="/Content/Resources/Stylesheets/A4-Styles-word.css" MasterPageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl" ConditionTagExpression="include[TargetType.PrintOnly or Guide.Word] exclude[TargetType.HTML5 or TargetType.HTMLHelp or TargetType.PDF or TargetType.ResponsiveHelp or TargetType.ScreenOnly] " PatchHeadingLevels="true" EmbedImages="true" RemoveImagesFromHeadings="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="false" GenerateIndexProxy="false" GenerateGlossaryProxy="false" DisableMasterPageUsage="true" />
+    <Variables>
+        <Variable Name="Variables/BookType">Template Description</Variable>
+        <Variable Name="Variables/CompanyName">doc-department</Variable>
+        <Variable Name="Variables/DocID">12345</Variable>
+        <Variable Name="Variables/DocVersion">1</Variable>
+        <Variable Name="Variables/ProductName">Product Name - Word</Variable>
+    </Variables>
+</CatapultTarget>

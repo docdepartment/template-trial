@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Cover" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="first" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="-36px" Y="314px" Width="630px" Height="148px" Flow="decoration1" Right="-34px" Bottom="332px" Rotate="-45" FlowIndex="4" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="draft"><MadCap:variable xhtml:name="Variables.Draft" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="26.45833mm" Y="60.06042mm" Width="105.8333mm" Height="55.03333mm" Flow="header" Anchors="" Right="60px" Bottom="359px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="booktitle"><MadCap:variable xhtml:name="Variables.ProductName" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="booktitle"><MadCap:variable xhtml:name="Variables.BookType" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="25.92917mm" Y="2.619375cm" Width="98.425mm" Height="13.22917mm" Flow="decoration1" BackgroundImage="../../gfx/commongfx/Logo.jpg" Anchors="" BackgroundRepeat="no-repeat" BackgroundPositionX="left" BackgroundPositionY="top" Right="90px" Bottom="645px" FlowIndex="4">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="26.45833mm" Y="590px" Width="400px" Height="152px" Flow="footer" Right="60px" Bottom="52px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:table xhtml:style="width: 100%;">
+                            <xhtml:col xhtml:style="width: 179px;" />
+                            <xhtml:col />
+                            <xhtml:tbody>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="subtitle">Date:</xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="subtitle"><MadCap:variable xhtml:name="System.LongDate" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                                        </xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="subtitle">Document Version:</xhtml:p>
+                                    </xhtml:td>
+                                    <xhtml:td>
+                                        <xhtml:p xhtml:class="subtitle"><MadCap:variable xhtml:name="Variables.DocID" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />-<MadCap:variable xhtml:name="Variables.DocVersion" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /><MadCap:variable xhtml:name="Variables.Draft" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" /></xhtml:p>
+                                    </xhtml:td>
+                                </xhtml:tr>
+                                <xhtml:tr>
+                                    <xhtml:td>&#160;</xhtml:td>
+                                    <xhtml:td>&#160;</xhtml:td>
+                                </xhtml:tr>
+                            </xhtml:tbody>
+                        </xhtml:table>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Left Preface" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="left" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="-36px" Y="314px" Width="630px" Height="148px" Flow="decoration0" Right="-34px" Bottom="332px" Rotate="-45" FlowIndex="4" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="draft"><MadCap:variable xhtml:name="Variables.Draft" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="17.99167mm" Y="25.92917mm" Right="76px" Bottom="53px" Width="11.00667cm" Height="17.01271cm">
+        </Frame>
+    </Page>
+    <Page Name="Right Preface" Width="800" Height="800" Padding="20px" PageSize="A5" PageType="right" PaddingLeft="0" PaddingRight="0" PaddingTop="0" PaddingBottom="0">
+        <Frame X="-36px" Y="314px" Width="630px" Height="148px" Flow="decoration0" Right="-34px" Bottom="332px" Rotate="-45" FlowIndex="4" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="draft"><MadCap:variable xhtml:name="Variables.Draft" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" Anchors="" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="19.84375mm" Y="25.92917mm" Right="69px" Bottom="53px" Width="11.00667cm" Height="17.01271cm">
+        </Frame>
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A5" PageType="empty" Name="Empty" PaddingRight="3.5cm" PaddingLeft="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+    </Page>
+</PageStyles>

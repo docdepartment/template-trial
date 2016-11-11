@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Online Style Guide"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/HTML5-Styles.css"
+  Medium="non-print"
+  MoveOutputContentToRoot="true"
+  InjectDocType="false"
+  ReplaceSpacesWithUnderscores="true"
+  MakeFileLowerCase="false"
+  ExcludeUnreferencedContent="true"
+  ConditionTagExpression="include[Guide.HTML5 or Guide.OnlineHelp or Guide.ResponsiveHelp or TargetType.ScreenOnly] exclude[Guide.A3QSG or Guide.A4PDF or Guide.UserGuideandHelp or Guide.Word or TargetType.PrintOnly] "
+  MasterPage="/Content/Resources/MasterPages/OnlineHelp.flmsp"
+  GetLatestBeforeCompile="false"
+  GenerateAllSkins="false"
+  GenerateWebSafeImages="true"
+  WebSafeFileExtension="jpg"
+  MasterToc="/Project/TOCs/Reference documents/Style Guide.fltoc"
+  DefaultUrl="/Content/Style Guide/Overview.htm">
+  <PrintedOutput
+    CollapseMargins="true" />
+  <Variables>
+    <Variable
+      Name="Variables/BookType">Style Guide</Variable>
+    <Variable
+      Name="Variables/ProductName">doc-department Style Guide</Variable>
+    <Variable
+      Name="Variables/Software Version"> </Variable>
+    <Variable
+      Name="Variables/Draft"> </Variable>
+    <Variable
+      Name="Variables/IntendedPurpose">This document provides guidelines for producing content for technical documentation.</Variable>
+    <Variable
+      Name="Variables/CompanyName">doc-department</Variable>
+    <Variable
+      Name="Variables/DocID">STYLE-123</Variable>
+    <Variable
+      Name="Variables/DocVersion">v1</Variable>
+  </Variables>
+  <Glossaries />
+</CatapultTarget>

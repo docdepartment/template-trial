@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment="Official Client company name"
+    Name="CompanyName"></Variable>
+  <Variable
+    Name="BookType"
+    Comment="The name of the document tye, e.g. User Guide"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="DocVersion"
+    Comment="Doc Version"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="DocID"
+    Comment="DocID"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="ProductName"
+    Comment="Product name to be used in the guide"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="Software Version"
+    Comment="Version of the software the document refers to"
+    Definition="Some text"></Variable>
+  <Variable
+    Name="IntendedPurpose"
+    Comment="Text in frontmatter that describes the content of the document"
+    Definition="Some text"
+    OriginalName="BookSummary"></Variable>
+  <Variable
+    Name="Draft"
+    Comment="Used for Draft stamp - include draft version - Blank othewise"></Variable>
+</CatapultVariableSet>
