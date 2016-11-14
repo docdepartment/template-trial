@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="doc-department Style Guide"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Reference documents/Style Guide.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/A4-Guide-body.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/A4-Styles.css"
+  ConditionTagExpression="include[Guide.A4PDF or TargetType.PrintOnly] exclude[Guide.A3QSG or Guide.HTML5 or Guide.OnlineHelp or Guide.ResponsiveHelp or Guide.UserGuideandHelp or Guide.Word or TargetType.ScreenOnly] "
+  PatchHeadingLevels="true"
+  RemoveImagesFromHeadings="false">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <Variables>
+    <Variable
+      Name="Variables/Intended Purpose"> </Variable>
+    <Variable
+      Name="Variables/BookType">Style Guide</Variable>
+    <Variable
+      Name="Variables/CompanyName">doc-department</Variable>
+    <Variable
+      Name="Variables/ProductName">doc-department Style Guide</Variable>
+    <Variable
+      Name="Variables/DocID">ID</Variable>
+    <Variable
+      Name="Variables/DocVersion">5</Variable>
+    <Variable
+      Name="Variables/CustomerName"> </Variable>
+    <Variable
+      Name="Variables/IntendedPurpose">This document provides guidelines for producing content for technical documentation.</Variable>
+    <Variable
+      Name="Variables/Draft">DRAFT 1</Variable>
+  </Variables>
+  <Glossaries />
+  <PDF
+    DownsampleImages="true"
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageMode="UseOutlines"
+    Tagged="false"
+    CollapsedBookmarks="true" />
+  <DocumentProperties
+    Title="doc-department Style Guide"
+    Author="doc-department" />
+</CatapultTarget>
