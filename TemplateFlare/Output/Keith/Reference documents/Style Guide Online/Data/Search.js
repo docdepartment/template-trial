@@ -1,1 +1,0 @@
-define({r:0.5,st:'Stem',n:1,t:[0],u:['../Common/Front_and_Back_matter/Copyright.htm'],s:['+','monitor'],p:[['+',60],['choices',18],['for',45],['message',70],['refer',76],['this',2]]});
